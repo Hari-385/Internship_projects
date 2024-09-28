@@ -9,7 +9,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 import numpy as np
 
 #please use googlecollab for execution
-# Upload the dataset
+# Upload the dataset taken from kaggle  like iris data set
 uploaded = files.upload()
 
 # Assuming the file is uploaded as a CSV

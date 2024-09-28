@@ -1,4 +1,6 @@
 #task-1
+# use the Google Collab for execution the file 
+#Take Titanic Data Sets like test and train file for execution 
 # Step 1: Upload the CSV file in Google Colab
 from google.colab import files
 import pandas as pd

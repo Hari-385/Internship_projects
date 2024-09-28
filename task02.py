@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 from google.colab import files
 from scipy import stats
 
+#use the Google Collab for execution 
+#Take the Titanic data set from kaggale and run the code 
 # Upload the file using Colab's file uploader
 uploaded = files.upload()
 
